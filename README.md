@@ -1,2 +1,2 @@
-# wpas_mxg_server
-Mexico project image repository
+# lite_location
+Location project image repository
